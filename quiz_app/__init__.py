@@ -1,0 +1,3 @@
+"""
+Quiz App package init.
+"""
